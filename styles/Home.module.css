@@ -42,13 +42,18 @@
 .title {
   margin-bottom: 0px;
   color: #eb8c34;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  font-size: 80px;
   
 }
 
 
 .explain {
-  font-size: 1rem;
+  font-size: 40px;
   font-weight: 600;
+  color: #8334eb;
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+ 
 }
 
 .secondaryButton {

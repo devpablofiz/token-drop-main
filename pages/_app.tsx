@@ -12,15 +12,15 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <ThirdwebProvider activeChain={activeChain}>
       <Head>
-        <title>thirdweb Token Drop Example</title>
+        <title>fcoin</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta
           name="description"
-          content="thirdweb Example Repository to Showcase the token drop contract, including claim and transfer features."
+          content="fcoin official Repository to Showcase the token drop contract, including claim and transfer features."
         />
         <meta
           name="keywords"
-          content="thirdweb token drop, thirdweb token transfer, thirdweb token claim, thirdweb token claim phases"
+          content="fcoin token drop, fcoin token transfer, fcoin token claim, fcoin token claim phases"
         />
       </Head>
       <Component {...pageProps} />
